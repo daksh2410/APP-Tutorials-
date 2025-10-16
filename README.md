@@ -1,0 +1,1 @@
+Welcome! This repository serves as a personal archive for all the Python and Java code solutions and assignments I've completed for my programming class. It covers all topics from Week 1 to Week 10, tracking my progress and serving as a reference for future projects.
